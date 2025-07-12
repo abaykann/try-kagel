@@ -101,4 +101,4 @@ Semua file ini akan muncul otomatis setelah script dijalankan.
 
 ## ✍️ Author
 
-Made with ❤️ by [Nama Kamu]
+Made with ❤️
